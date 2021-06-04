@@ -1,0 +1,9 @@
+//folders
+node_modules
+dist
+
+//logs
+log.*
+
+//lock
+*.lock
